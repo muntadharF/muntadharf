@@ -3,6 +3,8 @@
 <p align="center">
   <a href="mailto:muntadharf@gamil.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
   <a href="https://www.linkedin.com/in/muntadharf"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+  <a href="https://leetcode.com/muntadhar"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/> </a>
+  <a href="https://www.codewars.com/users/muntadhar"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/> </a>
   <a href="https://web.telegram.org/k/muntadharf"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
 </p>
 
