@@ -13,7 +13,7 @@
 
 - 💻 I’m currently working as a **Software Developer.**
   
-- ⌨ I’m currently learning **Android Native development.**
+- ⌨  I’m interested in learning **Android Native Development.**
 
 - 👥 I’m looking to collaborate on **creative Flutter projects**
   
